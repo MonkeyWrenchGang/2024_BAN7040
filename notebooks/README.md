@@ -7,10 +7,10 @@ This repository serves as a resource for learning and practicing data analysis t
 
 ## Contents
 
-- **Exploratory Data Analysis (EDA)**: Notebooks exploring techniques for data exploration, visualization, and understanding dataset characteristics.
-<a target="_blank" href="https://colab.research.google.com/github/MonkeyWrenchGang/2024_BAN7040/blob/main/notebooks/1_1_EDA_101.ipynb">
+- **Exploratory Data Analysis (EDA)**: Notebooks exploring techniques for data exploration, visualization, and understanding dataset characteristics. <a target="_blank" href="https://colab.research.google.com/github/MonkeyWrenchGang/2024_BAN7040/blob/main/notebooks/1_1_EDA_101.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 - **Supervised Learning**: Notebooks covering supervised learning algorithms such as regression, classification, and ensemble methods.
 - **Unsupervised Learning**: Notebooks demonstrating unsupervised learning techniques including clustering, dimensionality reduction, and anomaly detection.
 - **Model Evaluation and Validation**: Notebooks discussing methods for evaluating and validating machine learning models, including cross-validation, performance metrics, and hyperparameter tuning.
